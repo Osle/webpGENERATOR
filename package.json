@@ -1,0 +1,14 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "webp": "gulp webp",
+    "compress": "gulp compress"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-webp": "^4.0.1"
+  }
+}
